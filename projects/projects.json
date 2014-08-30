@@ -22,6 +22,21 @@
     ]
   },
   {
+    "name": "HTMLxprs",
+    "thumb": "htmlxprs/thumb.png", 
+    "desc": "A platform to learn, read and explore contents related to web development. HTMLxprs publishes content on HTML, CSS, JavaScript, Mobile development and other Frameworks.",
+    "url": "http://www.htmlxprs.com",
+	"info":"http://www.htmlxprs.com/about",
+    "submitter": "sandeeppanda92",
+    "submissionDate": "2014-08-30",
+    "tags": [
+      "Production",
+      "Web Development tutorials", "Web technologies", "Content management", "Web Publishing",
+      "Animations","HTML5","CSS3", "File API", "Express.js", "Redis Cache", "Node.js",
+      "jQuery"
+    ]
+  },
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
